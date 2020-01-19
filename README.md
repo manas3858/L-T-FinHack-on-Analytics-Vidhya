@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/21193878/56485800-185ba300-64f3-11e9-9b61-149f2ac47b2d.PNG)
+![](https://datahack-prod.s3.ap-south-1.amazonaws.com/__sized__/contest_cover/Big_Banner-100_qufOybG-thumbnail-1200x1200-90.jpg)
 
 Vehicle Loan Default Prediction Financial institutions incur significant losses due to the default of vehicle loans. This has led to the tightening up of vehicle loan underwriting and increased vehicle loan rejection rates. The need for a better credit risk scoring model is also raised by these institutions. This warrants a study to estimate the determinants of vehicle loan default. 
 
