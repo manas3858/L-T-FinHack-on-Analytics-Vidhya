@@ -4,12 +4,6 @@ Vehicle Loan Default Prediction Financial institutions incur significant losses 
 
 The aim of this exercise is to accurately predict the probability of loanee/borrower defaulting on a vehicle loan in the first EMI (Equated Monthly Instalments) on the due date. Doing so will ensure that clients capable of repayment are not rejected and important determinants can be identified which can be further used for minimising the default rates.
 
-Following Information regarding the loan and loanee are provided in the datasets:
-
-Loanee Information (Demographic data like age, income, Identity proof etc.) 
-Loan Information (Disbursal details, amount, EMI, loan to value ratio etc.) 
-Bureau data & history (Bureau score, number of active accounts, the status of other loans, credit history etc.) 
-
-This solution uses ensmeble of LightGBM, CatBoost and Lasso Regressions. The solution was in Top 10% pool securing a rank of 90 out of 1329 participants.
+The solution was in Top 7% pool securing a rank of 90 out of 1329 participants.
 
 Competition Link - https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/pvt_lb
